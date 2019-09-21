@@ -27,7 +27,6 @@
 
 
 ### 2. SVN to GIT Branching Strategy
-  - There are two ways of defining your GIT branching strategy, althought the standard way of using GIT repo is one.
   - Please refer [GIT Branches Guide](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) for detailed information on how branching works with git.
   - Please refer [GIT Basic Branching Guideline](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for a Basic Branching strategy guideline.
   
