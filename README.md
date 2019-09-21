@@ -4,4 +4,4 @@
 The following guide will help developers and content owners to switch from SVN to GIT.
 Please note that this guide doesn't bias SVN to GIT in any way, and is purely build based on tutoring as an intention.
 
-**[Guide for SVNtoGIT migration](./README.md)**
+**[Guide for SVNtoGIT migration](./SVNtoGIT.md)**
