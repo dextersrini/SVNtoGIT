@@ -18,6 +18,7 @@
   - Release N-1 - Release currently in Live and support branches.
   - Release N+1 - Upcoming Release for Development.
   
+  ![SVN Branching Strategy](./assets/images/SVNBSTRATEGY.jpg)
   
     
 
