@@ -29,6 +29,7 @@
 ### 2. SVN to GIT Branching Strategy
   - Please refer [GIT Branches Guide](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) for detailed information on how branching works with git.
   - Please refer [GIT Basic Branching Guideline](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for a Basic Branching strategy guideline.
+  - Please refer to [GIT Branch, Merge Video by David Mahler](https://youtu.be/FyAAIHHClqI)
   
   1. From above links you must have understood that git uses master branch as the lifeline branch where merges happen often before the feature release 
   goes to live.
