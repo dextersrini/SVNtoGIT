@@ -20,13 +20,14 @@
   - Release N+1 - Upcoming Release for Development.
   
   ![SVN Branching Strategy](./assets/images/SVNBSTRATEGY.jpg)
-  
-    
-
-
-
 
 ### 2. SVN to GIT Branching Strategy
+
+#### Before Getting into SVN to GIT Branching Strategy , you would wish to learn more about GIT and ways to use it.
+ > You can go through [this page](./GIT.md) for a list of topics on learning more about GIT. If you are new to GIT, it would be better you go through these links before jumping to branching strategy below.
+ 
+#### Heading to Branching Strategy
+
   - Please refer [GIT Branches Guide](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) for detailed information on how branching works with git.
   - Please refer [GIT Basic Branching Guideline](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for a Basic Branching strategy guideline.
   - Please refer to [GIT Branch, Merge Video by David Mahler](https://youtu.be/FyAAIHHClqI)
